@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/background.png</file>
+        <file>resource/jetthing2.psd</file>
+        <file>resource/TM_3_Light_Weight_Upgrade.psd</file>
+    </qresource>
+</RCC>
